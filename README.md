@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 Currently working on: Responsive web apps using React with reusable components & clean UI.<br><br>👯 Open to collaborate on: Frontend projects, landing pages & beginner open-source.<br><br>🤝 Seeking help with: Advanced React, performance optimization & Node.js basics.<br><br>🌱 Learning: Modern JavaScript (ES6+), React hooks, Node.js, Git & GitHub.<br><br>💬 Ask me about: Frontend basics & starting with React.<br><br>⚡ Fun fact: I love turning simple ideas into aesthetic web interfaces 🚀
+## 👩‍💻 About Me:
 
+🔭 Currently working on: CI/CD Pipeline Visualizer — real-time DevOps dashboard using Spring Boot, WebSocket & React
+
+🛠 Building: Full-stack Java applications with Spring Boot, REST APIs, and cloud deployment on AWS
+
+🏆 Achievements: 2x Patent Holder | 2nd Runner Up Ideate-a-thon 2025 | Microsoft Azure AI Event — Most Active Participant
+
+🌱 Learning: System Design, Microservices, AWS Cloud Architecture
+
+💬 Ask me about: Java, Spring Boot, WebSocket, REST APIs, React, AWS
+
+⚡ Fun fact: I hold 2 patents as a 3rd year undergrad
 
 ## 🌐 Socials:
 [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rupanshi Garg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gargrupanshi45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargrupanshi45@gmail.com)](https://linkedin.com/in/rupanshi-garg-8a5a84294) 
